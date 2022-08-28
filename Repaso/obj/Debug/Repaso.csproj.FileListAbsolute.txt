@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\Repaso\Repaso\bin\Debug\Repaso.exe.config
+C:\Users\marco\source\repos\Repaso\Repaso\bin\Debug\Repaso.exe
+C:\Users\marco\source\repos\Repaso\Repaso\bin\Debug\Repaso.pdb
+C:\Users\marco\source\repos\Repaso\Repaso\obj\Debug\Repaso.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\Repaso\Repaso\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Repaso\Repaso\obj\Debug\Repaso.exe
+C:\Users\marco\source\repos\Repaso\Repaso\obj\Debug\Repaso.pdb
